@@ -25,8 +25,6 @@ Ensure you have Python 3.9+ installed on your system.
 
 ### 2. Install Dependencies
 Clone or download the repository, navigate to the root directory, and install the required packages:
-
-```bash
 pip install -r requirements.txt
 
 Usage Instructions
