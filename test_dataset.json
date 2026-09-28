@@ -1,0 +1,902 @@
+[
+  {
+    "image_path": "images/clean_01.jpeg",
+    "category": "clean_negative",
+    "annotations": [
+      {
+        "box": [
+          54,
+          150,
+          234,
+          425
+        ],
+        "label": "keep"
+      },
+      {
+        "box": [
+          152,
+          97,
+          309,
+          425
+        ],
+        "label": "keep"
+      },
+      {
+        "box": [
+          10,
+          56,
+          128,
+          424
+        ],
+        "label": "keep"
+      },
+      {
+        "box": [
+          120,
+          37,
+          227,
+          276
+        ],
+        "label": "keep"
+      }
+    ]
+  },
+  {
+    "image_path": "images/clean_02.jpeg",
+    "category": "clean_negative",
+    "annotations": [
+      {
+        "box": [
+          92,
+          132,
+          223,
+          500
+        ],
+        "label": "keep"
+      },
+      {
+        "box": [
+          178,
+          148,
+          332,
+          500
+        ],
+        "label": "keep"
+      },
+      {
+        "box": [
+          208,
+          54,
+          363,
+          349
+        ],
+        "label": "keep"
+      },
+      {
+        "box": [
+          22,
+          177,
+          152,
+          500
+        ],
+        "label": "keep"
+      },
+      {
+        "box": [
+          78,
+          47,
+          191,
+          187
+        ],
+        "label": "keep"
+      },
+      {
+        "box": [
+          206,
+          54,
+          363,
+          500
+        ],
+        "label": "keep"
+      }
+    ]
+  },
+  {
+    "image_path": "images/clean_03.jpeg",
+    "category": "clean_negative",
+    "annotations": [
+      {
+        "box": [
+          1,
+          64,
+          262,
+          360
+        ],
+        "label": "keep"
+      },
+      {
+        "box": [
+          140,
+          97,
+          285,
+          361
+        ],
+        "label": "keep"
+      },
+      {
+        "box": [
+          252,
+          117,
+          449,
+          362
+        ],
+        "label": "keep"
+      },
+      {
+        "box": [
+          304,
+          140,
+          450,
+          361
+        ],
+        "label": "keep"
+      }
+    ]
+  },
+  {
+    "image_path": "images/clean_04.jpeg",
+    "category": "clean_negative",
+    "annotations": [
+      {
+        "box": [
+          278,
+          94,
+          406,
+          619
+        ],
+        "label": "keep"
+      },
+      {
+        "box": [
+          118,
+          3,
+          281,
+          200
+        ],
+        "label": "keep"
+      },
+      {
+        "box": [
+          50,
+          112,
+          229,
+          639
+        ],
+        "label": "keep"
+      },
+      {
+        "box": [
+          85,
+          154,
+          343,
+          636
+        ],
+        "label": "keep"
+      }
+    ]
+  },
+  {
+    "image_path": "images/clean_05.jpeg",
+    "category": "clean_negative",
+    "annotations": [
+      {
+        "box": [
+          193,
+          146,
+          304,
+          496
+        ],
+        "label": "keep"
+      },
+      {
+        "box": [
+          207,
+          62,
+          347,
+          468
+        ],
+        "label": "keep"
+      },
+      {
+        "box": [
+          77,
+          24,
+          229,
+          480
+        ],
+        "label": "keep"
+      }
+    ]
+  },
+  {
+    "image_path": "images/clear_pb_01.jpeg",
+    "category": "clear_photobomb",
+    "annotations": [
+      {
+        "box": [
+          304,
+          108,
+          378,
+          419
+        ],
+        "label": "keep"
+      },
+      {
+        "box": [
+          443,
+          129,
+          534,
+          429
+        ],
+        "label": "keep"
+      },
+      {
+        "box": [
+          358,
+          79,
+          455,
+          422
+        ],
+        "label": "keep"
+      },
+      {
+        "box": [
+          0,
+          2,
+          233,
+          330
+        ],
+        "label": "remove"
+      }
+    ]
+  },
+  {
+    "image_path": "images/clear_pb_02.jpeg",
+    "category": "clear_photobomb",
+    "annotations": [
+      {
+        "box": [
+          334,
+          145,
+          383,
+          286
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          218,
+          93,
+          324,
+          496
+        ],
+        "label": "keep"
+      },
+      {
+        "box": [
+          112,
+          56,
+          240,
+          494
+        ],
+        "label": "keep"
+      }
+    ]
+  },
+  {
+    "image_path": "images/clear_pb_03.jpeg",
+    "category": "clear_photobomb",
+    "annotations": [
+      {
+        "box": [
+          89,
+          80,
+          237,
+          357
+        ],
+        "label": "keep"
+      },
+      {
+        "box": [
+          202,
+          86,
+          345,
+          356
+        ],
+        "label": "keep"
+      },
+      {
+        "box": [
+          295,
+          112,
+          432,
+          271
+        ],
+        "label": "remove"
+      }
+    ]
+  },
+  {
+    "image_path": "images/clear_pb_04.jpeg",
+    "category": "clear_photobomb",
+    "annotations": [
+      {
+        "box": [
+          0,
+          92,
+          296,
+          360
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          247,
+          64,
+          386,
+          361
+        ],
+        "label": "keep"
+      },
+      {
+        "box": [
+          357,
+          97,
+          501,
+          361
+        ],
+        "label": "keep"
+      }
+    ]
+  },
+  {
+    "image_path": "images/clear_pb_05.jpeg",
+    "category": "clear_photobomb",
+    "annotations": [
+      {
+        "box": [
+          301,
+          56,
+          475,
+          361
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          25,
+          65,
+          336,
+          360
+        ],
+        "label": "keep"
+      },
+      {
+        "box": [
+          439,
+          146,
+          458,
+          187
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          24,
+          75,
+          194,
+          358
+        ],
+        "label": "keep"
+      }
+    ]
+  },
+  {
+    "image_path": "images/crowd_01.jpeg",
+    "category": "crowd",
+    "annotations": [
+      {
+        "box": [
+          219,
+          106,
+          375,
+          264
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          0,
+          137,
+          141,
+          264
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          337,
+          121,
+          398,
+          263
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          78,
+          111,
+          177,
+          264
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          147,
+          109,
+          236,
+          265
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          0,
+          96,
+          81,
+          222
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          217,
+          111,
+          278,
+          183
+        ],
+        "label": "remove"
+      }
+    ]
+  },
+  {
+    "image_path": "images/crowd_02.jpeg",
+    "category": "crowd",
+    "annotations": [
+      {
+        "box": [
+          393,
+          163,
+          504,
+          307
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          273,
+          177,
+          382,
+          307
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          229,
+          136,
+          266,
+          241
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          63,
+          204,
+          168,
+          308
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          138,
+          206,
+          255,
+          308
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          151,
+          163,
+          204,
+          250
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          52,
+          166,
+          131,
+          257
+        ],
+        "label": "remove"
+      }
+    ]
+  },
+  {
+    "image_path": "images/crowd_03.jpeg",
+    "category": "crowd",
+    "annotations": [
+      {
+        "box": [
+          264,
+          374,
+          372,
+          499
+        ],
+        "label": "keep"
+      },
+      {
+        "box": [
+          150,
+          326,
+          201,
+          449
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          42,
+          351,
+          77,
+          451
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          77,
+          325,
+          114,
+          437
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          254,
+          325,
+          299,
+          435
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          112,
+          330,
+          141,
+          438
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          0,
+          332,
+          23,
+          408
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          23,
+          328,
+          46,
+          405
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          297,
+          331,
+          336,
+          381
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          330,
+          316,
+          354,
+          379
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          232,
+          322,
+          253,
+          383
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          350,
+          311,
+          373,
+          381
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          214,
+          362,
+          233,
+          404
+        ],
+        "label": "remove"
+      }
+    ]
+  },
+  {
+    "image_path": "images/crowd_04.jpeg",
+    "category": "crowd",
+    "annotations": [
+      {
+        "box": [
+          0,
+          291,
+          131,
+          478
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          153,
+          313,
+          248,
+          479
+        ],
+        "label": "keep"
+      },
+      {
+        "box": [
+          376,
+          288,
+          516,
+          479
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          505,
+          284,
+          591,
+          479
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          590,
+          305,
+          637,
+          479
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          258,
+          285,
+          325,
+          455
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          256,
+          334,
+          429,
+          479
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          95,
+          319,
+          157,
+          480
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          559,
+          301,
+          595,
+          460
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          131,
+          300,
+          182,
+          395
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          0,
+          286,
+          47,
+          479
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          0,
+          286,
+          48,
+          412
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          461,
+          292,
+          512,
+          405
+        ],
+        "label": "remove"
+      }
+    ]
+  },
+  {
+    "image_path": "images/crowd_05.jpeg",
+    "category": "crowd",
+    "annotations": [
+      {
+        "box": [
+          167,
+          251,
+          368,
+          440
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          35,
+          275,
+          202,
+          441
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          365,
+          217,
+          450,
+          418
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          634,
+          165,
+          691,
+          371
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          377,
+          303,
+          527,
+          440
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          56,
+          167,
+          130,
+          303
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          138,
+          237,
+          239,
+          393
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          522,
+          212,
+          618,
+          321
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          104,
+          189,
+          181,
+          282
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          3,
+          279,
+          93,
+          429
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          614,
+          110,
+          691,
+          314
+        ],
+        "label": "remove"
+      },
+      {
+        "box": [
+          332,
+          173,
+          379,
+          271
+        ],
+        "label": "remove"
+      }
+    ]
+  }
+]
