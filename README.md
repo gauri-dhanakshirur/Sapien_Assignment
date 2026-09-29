@@ -1,5 +1,5 @@
 # Image Classifier
-A lightweight Multi-Layer Perceptron (MLP) built strictly with NumPy to classify images from the CIFAR-10 dataset without using deep learning frameworks like PyTorch or TensorFlow.
+A lightweight Multi-Layer Perceptron (MLP) built strictly with NumPy to classify images from the CIFAR-10 dataset.
 
 Dataset & Target Classes
 Filters the original CIFAR-10 dataset down to 3 classes:
